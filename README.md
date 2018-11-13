@@ -1,0 +1,2 @@
+# ProyectoRoldeJuegosJPAPSQL
+proyecto segundo parcial
